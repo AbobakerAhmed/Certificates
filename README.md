@@ -7,21 +7,22 @@ So I create this repo to hold only the certificates to see all of them together.
 
 
 ## 1- Bachelolr's of Computer Science Program
-    - Final Results of Level Two
+    - Final Results of Level Two 2024
 
 
 ## 2- Data Analysis
-    - IBM Data Analysis and Visualization Foundations Specialization
+    - IBM Data Analysis and Visualization Foundations Specialization 2025
 
 
 ## 3- AI and Data Science
-    - AI Bootcamp by GDSC
-    - AI and Data Science Path from Satr (not finshed yet)
+    - AI Bootcamp by GDSC 2024
+    - Satr AI and Data Science Path 2025 (In Progress)
+    - KUST Academy AI Program 2026 (In Progress)
 
 
 ## 4- Mobile Application Development with Flutter
-    - Flutter Applications Development
+    - Satr Flutter Applications Development Path 2025 (Isn't Complited)
 
 
 ## 5- Network
-    - Networks Fundamentals Course by GDSC
+    - Networks Fundamentals Course by GDSC 2022
